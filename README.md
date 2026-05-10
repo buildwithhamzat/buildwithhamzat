@@ -10,6 +10,8 @@ I architected the support system rebuild at Alleybookings that cut payment-relat
 
 I work across **modern web**, **mobile**, and **Web3**: fintech infrastructure, product architecture, and onchain tooling. Open to remote roles with EU, UK, and US East Coast teams.
 
+AI-augmented workflow — GitHub Copilot for in-editor completions, Claude for architecture decisions and code review.
+
 📩 abdulmuizzayo6@gmail.com 
 
 <br clear="right"/>
