@@ -1,80 +1,52 @@
-<!-- Profile photo — swap URL once photoshoot is done -->
-<!-- <img align="right" src="YOUR_PHOTO_URL" width="160" style="border-radius: 12px; margin-left: 16px"/> -->
+# Hi, I'm Abdulmuizz Hamzat 👋
 
-## Hi, I'm Abdul-muizz Hamzat
+**Software engineer building [Flewa](https://flewa.org).** I work on developer experience & QA for open-source ([ClassroomIO](https://classroomio.com)) from self-hosting guides to bug reports.
 
-**Fullstack Engineer & System Architecture Lead**
-Abuja, Nigeria · WAT/UTC+1 · Full overlap with Europe (CET)
-
-I architected the support system rebuild at Alleybookings that cut payment-related tickets **73%**. I own the architecture of Giftagoal (crowdfunding) and Blacktherapy (therapy booking — migrated from WordPress to Next.js). Currently building Carepadi (elderly care healthtech) and Flewa (invoice mobile app) from the ground up.
-
-I work across **modern web**, **mobile**, and **Web3**: fintech infrastructure, product architecture, and onchain tooling. Open to remote roles with EU, UK, and US East Coast teams.
-
-AI-augmented workflow — GitHub Copilot for in-editor completions, Claude for architecture decisions and code review.
-
-📩 abdulmuizzayo6@gmail.com 
-
-<br clear="right"/>
+- 🌍 Based in Nigeria, working with teams remotely and globally
+- 🛠️ React Native · React · Next.js · TypeScript · Node · Express · PostgreSQL · Docker
+- 📫 Reach me: [X/Twitter](https://x.com/buildwithhamza_) · [LinkedIn](https://www.linkedin.com/in/abdulmuizzhamzat) · abdulmuizzayo6@gmail.com
 
 ---
 
-### What I build
+## 🚀 What I'm building
 
-**Fintech & payments** — payment pipelines, support-ticket reduction at scale, invoice systems, transaction flows
+**[Flewa](https://flewa.org)** — A mobile invoicing app for businesses and freelancers. Create invoices, receive payments, track when an invoice is viewed, and send automatic reminders on unpaid invoices — all from your phone.
 
-**Product architecture** — full ownership from schema design to deployment; healthcare, crowdfunding, therapy booking, invoicing
+Built solo. React Native app with a Node.js/Express + PostgreSQL backend, scheduled reminders via pg-boss, real payments through Paystack and Flutterwave, containerized with Docker and self-hosted on a VPS.
 
-**Web3 & onchain** — Solidity/EVM smart contracts, Hedera Hashgraph dApps, token tooling, decentralized storage
-
----
-
-### Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Hedera](https://img.shields.io/badge/Hedera_Hashgraph-000000?style=flat&logo=hedera&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+*Pre-launch — [join the waitlist](https://flewa.org/waitlist) · code private*
 
 ---
 
-### Featured Work
+## 💼 Recent work
 
-| Project | What it does | Status |
-|---|---|---|
-| [giftagoal](https://giftagoal.com/) | Crowdfunding platform — I own the architecture | Live |
-| blacktherapy | Therapy booking app — migrated from WordPress to Next.js | Completed |
-| [blaut](https://blaut.vercel.app/) | Decentralized file storage on Hedera Hashgraph | Live |
-| [tipjar](https://github.com/buildwithhamzat/tipjar-h) | Peer-to-peer micro-payment platform — tip anyone by tagging them on X (Twitter) | Live |
-| [alleybookings](http://alleybookings.com/) | Flight booking platform — payment retry system cut support tickets 73% | Live |
-| [lampstand](https://lampstand.io/) | Marketing site — UI build, QA testing and production fixes | Completed |
+**Giftagoal** — [giftagoal.com](https://giftagoal.com) · Frontend architecture lead on a crowdfunding platform. Owned the frontend architecture, led the frontend team, and worked closely with backend to ship core features end-to-end.
+
+**Alley Bookings** *(contract)* — Frontend engineer on a flight booking app. Built a smooth search-to-booking experience and cut payment support issues significantly by fixing the payment confirmation flow with auto-refresh-on-failure. *(code & URL private)*
+
+**Lampstand** — Fullstack Engineer on a job board platform (team of 4). Built and integrated REST APIs for listings, applications, and user management.
 
 ---
 
-### Work highlights
+## 🌱 Open source
 
-- **Alleybookings** — rebuilt the support system, cutting payment-related tickets by **73%**
-- **Lampstand** — marketing site development, QA testing and production fixes
-- **Giftagoal** — full architecture ownership of a crowdfunding platform
-- **Blacktherapy** — led the migration from WordPress to Next.js for a therapy booking product
-
----
-
-### Writing
-
-- Coming soon!!
+**[ClassroomIO](https://classroomio.com)** — The open-source education platform (a Moodle/Teachable alternative).
+I focus on developer experience and quality:
+- Self-hosting guides & deployment docs for Coolify, Railway, Dokploy, and VPS setups
+- QA and bug reporting
+- Improving the setup experience for people running it themselves
 
 ---
 
-### Connect
+## 🧰 Selected projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuizzhamzat/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/buildwithhamzat)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdulmuizzayo6@gmail.com)
+**[TipJar](https://github.com/buildwithhamzat/tipjar-h)** — Non-custodial peer-to-peer micro-payments on Hedera Hashgraph, with Twitter/X-based tipping. Hedera SDK · Next.js · Node.js · Cron jobs · TypeScript.
+🎞️ [Presentation](https://youtu.be/CBOTK1PKB1k)
+
+**[Blaut](https://github.com/buildwithhamzat/blaut)** — Lead engineer on a decentralized, encrypted file-storage system with wallet-based encryption and emergency access controls. Solidity · Next.js · Wagmi · Viem · Supabase · TypeScript.
+🎞️ [Demo](https://www.loom.com/share/28a5d5382f514312b74007b4fb2b3d51)
+
+
+---
+
+*Open to international roles — software engineering / frontend / QA & developer experience.*
